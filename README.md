@@ -6,11 +6,11 @@ I'm currently a Computer Science student at Purdue University with a concentrati
 I'm very passionate about exploring the applications for software through coding, in both technical and non-technical areas. <br/>
 <br/> 
 Outside of software development, I enjoy:
-- Playing basketball 🏀
-- Playing golf ⛳
-- Hanging out with friends :beers:
-- Watching movies 🎥
-- Going to the gym 🏋️
+- Playing basketball 
+- Playing golf 
+- Hanging out with friends 
+- Watching movies 
+- Going to the gym 
 
 :zap:Fun Fact:
 <br/>
@@ -19,9 +19,9 @@ Outside of software development, I enjoy:
 
 ### :computer: What I'm Up To
 ---
-- Keeping up with school :school_satchel:
-- LeetCode :chart_with_upwards_trend:
-- Working on a startup :eyes:
+- Keeping up with school 
+- LeetCode
+- Working on a startup
 
 ### Tech Stack
 ---
