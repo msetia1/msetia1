@@ -30,7 +30,7 @@ Outside of software development, I enjoy:
 
 ### 📬 How to Reach Me:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) michaelsetiawan823@gmail.com <br/>
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [LinkedIn](linkedin.com/in/msetia1/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [LinkedIn](https://www.linkedin.com/in/msetia1/)
 
 
 
