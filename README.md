@@ -2,7 +2,7 @@
 
 ### :alien: About Me
 ---
-I'm currently a Computer Science student at Purdue University, set to graduate in May 2026. <br/>
+I'm currently a Computer Science student at Purdue University with a concentration in Machine Intelligence, set to graduate in May 2026. <br/>
 I'm very passionate about exploring the applications for software through coding, in both technical and non-technical areas. <br/>
 <br/> 
 Outside of software development, I enjoy:
