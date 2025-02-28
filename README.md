@@ -4,6 +4,7 @@
 ---
 I'm currently a Computer Science student at Purdue University with a concentration in Machine Intelligence, set to graduate in May 2026. <br/>
 I'm very passionate about exploring the applications for software through coding, in both technical and non-technical areas. <br/>
+Currently I'm trying to improve my overall full-stack development skills as well as explore other interests like mobile app development. <br/>
 <br/> 
 Outside of software development, I enjoy:
 - Playing basketball 
