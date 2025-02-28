@@ -22,7 +22,7 @@ Outside of software development, I enjoy:
 ### Tech Stack
 ---
 **Languages:** [![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,c,html,css)](https://skillicons.dev) <br/>
-**Frameworks/Technologies:** [![My Skills](https://skillicons.dev/icons?i=react,reactnative,gulp,nodejs,sklearn,tensorflow,git)](https://skillicons.dev) <br/>
+**Frameworks/Technologies:** [![My Skills](https://skillicons.dev/icons?i=react,gulp,nodejs,sklearn,tensorflow,git)](https://skillicons.dev) <br/>
 
 ### 📬 How to Reach Me:
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) michaelsetiawan823@gmail.com <br/>
