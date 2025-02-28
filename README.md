@@ -17,11 +17,6 @@ Outside of software development, I enjoy:
 - I spent my first two years studying Mechanical Engineering because I was really interested in vehicle design
 - I changed majors to CS because I admired the creativity that coding problems allowed for in the problem-solving process
 
-### :computer: What I'm Up To
----
-- Keeping up with school 
-- LeetCode
-- Working on a startup
 
 ### Tech Stack
 ---
