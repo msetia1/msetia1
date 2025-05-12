@@ -1,33 +1,25 @@
-# :wave: Hey! I’m Michael
+<h1 align="center">Michael Setiawan</h1>
 
-### :alien: About Me
----
-I'm currently a Computer Science student at Purdue University with a concentration in Machine Intelligence, set to graduate in May 2026. <br/>
-I'm very passionate about exploring the applications for software through coding, in both technical and non-technical areas. <br/>
-Currently I'm trying to improve my overall full-stack development skills as well as explore other interests like mobile app development. <br/>
-<br/> 
-Outside of software development, I enjoy:
-- Playing basketball 
-- Playing golf 
-- Hanging out with friends 
-- Watching movies 
-- Going to the gym 
+<h3 align="center">CS @ Purdue. Full Stack Developer @ HawkenAI</h3>
 
-:zap:Fun Fact:
-<br/>
-- I spent my first two years studying Mechanical Engineering because I was really interested in vehicle design
-- I changed majors to CS because I admired the creativity that coding problems allowed for in the problem-solving process
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msetia1&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
+
+- Passionate about building and creating
+- Always looking to work on new and exciting products and startups
+- Currently learning mobile app development in Swift
 
 
-### Tech Stack
----
-**Languages:** [![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,c,html,css)](https://skillicons.dev) <br/>
-**Frameworks/Technologies:** [![My Skills](https://skillicons.dev/icons?i=react,gulp,nodejs,sklearn,tensorflow,git)](https://skillicons.dev) <br/>
+<h3 align="left">Tech Stack</h3>
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,c,html,css,swift,react,nodejs,express,postgres,prisma" alt="My Skills">
+
+<h3 align="left">Let's Connect</h3>
+
+<a href="https://www.linkedin.com/in/msetia1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atijmahesh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/msetia1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atijmahesh" height="30" width="40" /></a>
+
 
 ### 📬 How to Reach Me:
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) michaelsetiawan823@gmail.com <br/>
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [LinkedIn](https://www.linkedin.com/in/msetia1/)
-
+michaelsetiawan823@gmail.com
 
 
 <!---
