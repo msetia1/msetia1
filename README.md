@@ -4,9 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msetia1&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
 
-- Passionate about building and creating
+- Passionate about building and creating technical products
 - Always looking to work on new and exciting products and startups
 - Currently learning mobile app development in Swift
+- Building something huge 🤐 (stay tuned)
 
 
 <h3 align="left">Tech Stack</h3>
