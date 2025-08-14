@@ -10,7 +10,7 @@
 
 
 <h3 align="left">Tech Stack</h3>
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,c,html,css,react,nodejs,express,postgres,prisma" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,c,html,css,react,nodejs,express,postgres,prisma,supabase" alt="My Skills">
 
 <h3 align="left">Let's Connect</h3>
 
