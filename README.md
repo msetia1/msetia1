@@ -6,12 +6,11 @@
 
 - Passionate about building and creating technical products
 - Always looking to work on new and exciting products and startups
-- Currently learning mobile app development in Swift
 - Building something huge 🤐 (stay tuned)
 
 
 <h3 align="left">Tech Stack</h3>
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,c,html,css,swift,react,nodejs,express,postgres,prisma" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,c,html,css,react,nodejs,express,postgres,prisma" alt="My Skills">
 
 <h3 align="left">Let's Connect</h3>
 
