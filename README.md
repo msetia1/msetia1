@@ -4,9 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msetia1&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
 
-- Passionate about building and creating technical products
-- Always looking to work on new and exciting products and startups
-- Building something huge 🤐 (stay tuned)
+- Passionate about building and creating products
+- Very interested in AI and its applications and uses
+- Gaining expereince in building AI systems using RAG, MCP, and multi-agent systems
+- Always looking to work on new and exciting products and startups in a fast-paced environment where I can wear many hats
 
 
 <h3 align="left">Tech Stack</h3>
