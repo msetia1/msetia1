@@ -1,6 +1,6 @@
 <h1 align="center">Michael Setiawan</h1>
 
-<h3 align="center">CS @ Purdue. Full Stack Developer @ HawkenAI</h3>
+<h3 align="center">CS @ Purdue</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msetia1&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
 
